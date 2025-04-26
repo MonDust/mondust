@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm currently studying at Gdańsk Univesity of Technology - Data Engineering. 
+
 <!--
 **MonDust/mondust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
