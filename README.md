@@ -1,17 +1,14 @@
 ## Hello 👋
 I'm a Data Engineering student, currently in my 6th semester. I am studying at Gdańsk University of Technology.
 
-<!--
-**MonDust/mondust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am currently working on -> no public repositories on github
+- Battleships game 🎮
+Multiplayer implementation with communication over TCP sockets.
+Language: Java | Type: University Group Project
+- Flight data analyzer ✈️
+Analyzing and grouping airline flight data.
+Language: Java | Type: University Group Project
+- My thesis
+Analysis of Factors Affecting the Number of Rentals in the Bicycle System.
+Language: Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
