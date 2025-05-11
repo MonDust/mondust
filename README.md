@@ -16,9 +16,4 @@ There is no public repository available for bellow.
   - Analysis of Factors Affecting the Number of Rentals in the Bicycle System.
   - Language: Python
 
-## Contact
-[Linkedin](https://www.linkedin.com/in/oliwer-paszkiewicz/)
-
-E-mail: [oliwer.paszkiewicz@gmail.com](oliwer.paszkiewicz@gmail.com)
-
 
